@@ -13,9 +13,8 @@ This is a practice repository
 [This is a link](https://codingnomads.co)
 
 
--These are bullet points
-
--These are bullet points
+- These are bullet points
+- These are bullet points
 
 
 **This is markdown**
